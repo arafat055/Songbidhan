@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background10"
+    android:layout_height="match_parent"
+    tools:context="challenge.afor.technology.songbidhan.MainActivity">
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:dividerHeight="0.0sp"
+
+        android:layout_marginBottom="45dp">
+
+
+    </ListView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_above="@+id/list"
+        android:layout_alignParentBottom="true"
+
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="match_parent"
+            android:text="Contributors"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@color/black"
+            android:layout_alignParentBottom="true"
+
+            android:id="@+id/con"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

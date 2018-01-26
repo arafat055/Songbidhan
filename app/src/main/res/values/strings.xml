@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ছন্দে ছন্দে সংবিধান</string>
+    <string name="rec_01">সংবিধানের ১১টি ভাগ </string>
+    <string name="rec_02">অনুচ্ছেদ : ১-১২</string>
+    <string name="rec_03">অনুচ্ছেদ : ১৩-২৫</string>
+    <string name="rec_04">অনুচ্ছেদ : ২৬-৩৫</string>
+    <string name="rec_05">অনুচ্ছেদ : ৩৬-৪৪</string>
+    <string name="rec_06">অনুচ্ছেদ : ৪৮-৫৪</string>
+    <string name="rec_07">অনুচ্ছেদ : ৫৫-৫৮</string>
+    <string name="rec_08">অনুচ্ছেদ : ৬৫-৭৯</string>
+    <string name="rec_09">অন্যান্য গুরুত্বপূর্ণ ধারা</string>
+    <string name="rec_10">তফসিল</string>
+    <string name="rec_11">সাংবিধান বিষয়ক প্রশ্ন উত্তর</string>
+    <string name="rec_12">সাংবিধান বিষয়ক পরামর্শ</string>
+    <string name="rec_13">সাংবিধানিক সংশোধনী</string>
+
+
+
+</resources>
